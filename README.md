@@ -46,7 +46,7 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-- 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/master/svg/social/skype.png" >](https://join.skype.com/EafVuDsyIX9f/)
+- 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/social/skype.png" >](https://join.skype.com/EafVuDsyIX9f/)
 <p align="center">Made with ❤️ by Sam</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
