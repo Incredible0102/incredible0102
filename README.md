@@ -58,5 +58,5 @@
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/Bottom.svg" alt="Github Status" />
 </p>
