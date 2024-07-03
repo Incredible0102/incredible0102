@@ -47,10 +47,11 @@
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 
-<p align="center">
-  <h2 align="center">Cotact Me!</h2><a href="https://join.skype.com/EafVuDsyIX9f/" alt="contact me"><img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/social/skype.png" style="vertical-align:top; margin:4px; width:70px; height:70px"></a>
+<div align="center">
+  <h2 align="center" style="padding-right: 30px;">Cotact Me!</h2>
+  <a href="https://join.skype.com/EafVuDsyIX9f/" alt="contact me"><img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/social/skype.png" style="vertical-align:top; margin:4px; width:70px; height:70px"></a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ahmadlevin.34@gmail.com" alt="contact me"><img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/social/mail.png" style="vertical-align:top; margin:4px; width:70px; height:70px"></a>  
-</p>
+</div>
 
 <p align="center">Made with ❤️ by Sam</p>
 
