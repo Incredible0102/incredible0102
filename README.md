@@ -7,14 +7,11 @@
 </div>
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
   <h3> I'm a Full-Stack developer with 9 years of experience.</h3>
 </p>
 
-### - Languages and Tools...
-
-<p align="center">
+<div align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/html.png" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/css.png" alt="css" style="vertical-align:top; margin:4px">
@@ -41,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/chrome.png" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/vs.jfif" alt="vscode" style="vertical-align:top; margin:4px">
 
-</p>
+</div>
 
 <h2 align="center">🤝 Support</h2>
 
