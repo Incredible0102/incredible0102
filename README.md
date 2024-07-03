@@ -7,11 +7,11 @@
 </div>
 
 <br />
-<p align="center">
-  <h3> I'm a Full-Stack developer with 9 years of experience.</h3>
+<p>
+  <h3> Experienced Senior Full Stack Engineer with a successful history of delivering scalable solutions and achieving tangible business results. Skilled in a wide range of technologies including React.js, Vue.js, Angular, Node.js, C#, .NET, Golang, and TypeScript. </h3>
 </p>
 
-<div align="center">
+<div>
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/html.jfif" alt="html" style="vertical-align:top; margin:4px; width:70px; height:70px">
   <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/css.png" alt="css" style="vertical-align:top; margin:4px; width:70px; height:70px">
@@ -46,11 +46,11 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-- 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/skype.svg" >](https://join.skype.com/EafVuDsyIX9f/)
+- 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/master/svg/social/skype.png" >](https://join.skype.com/EafVuDsyIX9f/)
 <p align="center">Made with ❤️ by Sam</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
