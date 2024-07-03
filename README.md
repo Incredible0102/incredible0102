@@ -46,11 +46,18 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-- 💬 Connect?<a href="https://join.skype.com/EafVuDsyIX9f/" alt="join me"><img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/social/skype.png" style="vertical-align:top; margin:4px; width:70px; height:70px"></a>
+
+<p align="center">
+  <h2 align="center">Cotact Me!</h2>
+</p>
+
+<a href="https://join.skype.com/EafVuDsyIX9f/" alt="contact me"><img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/social/skype.png" style="vertical-align:top; margin:4px; width:70px; height:70px"></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ahmadlevin.34@gmail.com" alt="contact me"><img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/social/mail.png" style="vertical-align:top; margin:4px; width:70px; height:70px"></a>
+
 <p align="center">Made with ❤️ by Sam</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
