@@ -13,30 +13,30 @@
 
 <div>
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/html.jfif" alt="html" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/css.png" alt="css" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/js.png" alt="javascript" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/typescript.png" alt="typescript" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/react.png" alt="react" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/vue.png" alt="vue" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/angular.png" alt="angular" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/nodejs.png" alt="nodejs" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/nextjs.png" alt="nextjs" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/nuxtjs.png" alt="nuxtjs" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/nestjs.png" alt="nestjs" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/tailwindcss.png" alt="tailwindcss" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/php.png" alt="php" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/laravel.png" alt="laravel" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/python.jfif" alt="python" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/csharp.png" alt="csharp" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/.net.png" alt=".net" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/mongodb.png" alt="mongodb" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/sql.png" alt="sql" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/aws.jfif" alt="aws" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/azure.jfif" alt="azure" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/cloud.png" alt="cloud" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/chrome.png" alt="chrome" style="vertical-align:top; margin:4px; width:70px; height:70px">
-  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/dev/vs.jfif" alt="vscode" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/html.jfif" alt="html" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/css.png" alt="css" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/js.png" alt="javascript" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/typescript.png" alt="typescript" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/react.png" alt="react" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/vue.png" alt="vue" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/angular.png" alt="angular" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/nodejs.png" alt="nodejs" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/nextjs.png" alt="nextjs" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/nuxtjs.png" alt="nuxtjs" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/nestjs.png" alt="nestjs" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/tailwindcss.png" alt="tailwindcss" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/php.png" alt="php" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/laravel.png" alt="laravel" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/python.jfif" alt="python" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/csharp.png" alt="csharp" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/.net.png" alt=".net" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/mongodb.png" alt="mongodb" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/sql.png" alt="sql" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/aws.jfif" alt="aws" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/azure.jfif" alt="azure" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/cloud.png" alt="cloud" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/chrome.png" alt="chrome" style="vertical-align:top; margin:4px; width:70px; height:70px">
+  <img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/dev/vs.jfif" alt="vscode" style="vertical-align:top; margin:4px; width:70px; height:70px">
 
 </div>
 
@@ -48,11 +48,9 @@
 </p>
 
 <p align="center">
-  <h2 align="center">Cotact Me!</h2>
+  <h2 align="center">Cotact Me!</h2><a href="https://join.skype.com/EafVuDsyIX9f/" alt="contact me"><img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/social/skype.png" style="vertical-align:top; margin:4px; width:70px; height:70px"></a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ahmadlevin.34@gmail.com" alt="contact me"><img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/social/mail.png" style="vertical-align:top; margin:4px; width:70px; height:70px"></a>  
 </p>
-
-<a href="https://join.skype.com/EafVuDsyIX9f/" alt="contact me"><img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/social/skype.png" style="vertical-align:top; margin:4px; width:70px; height:70px"></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ahmadlevin.34@gmail.com" alt="contact me"><img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/svg/social/mail.png" style="vertical-align:top; margin:4px; width:70px; height:70px"></a>
 
 <p align="center">Made with ❤️ by Sam</p>
 
