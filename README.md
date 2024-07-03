@@ -49,8 +49,8 @@
 
 <div align="center">
   <h2 align="center" style="padding-right: 30px;">Cotact Me!
-  <a href="https://join.skype.com/EafVuDsyIX9f/" alt="contact me"><img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/contact/skype.png" style="vertical-align:top; margin:4px; width:20px; height:20px"></a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ahmadlevin.34@gmail.com" alt="contact me"><img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/contact/mail.png" style="vertical-align:top; margin:4px; width:20px; height:20px"></a>  
+  <a href="https://join.skype.com/EafVuDsyIX9f/" alt="contact me"><img src="https://raw.githubusercontent.com/BinAhmad123/BinAhmad123/main/img/contact/skype.png" style="vertical-align:top; margin:4px; width:20px; height:20px"></a>
 </h2></div>
 
 <p align="center">Made with ❤️ by Sam</p>
